@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.MagaraJamGame_v1.iml
+# Datasource local storage ignored files
+/../../../../../../:\MYPROJECTS\MagaraJamGame_v1\.idea\.idea.MagaraJamGame_v1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
